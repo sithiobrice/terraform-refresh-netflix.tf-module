@@ -9,3 +9,4 @@ resource "aws_instance" "myec2" {
   }
   
 }
+# this is a file that we modify
