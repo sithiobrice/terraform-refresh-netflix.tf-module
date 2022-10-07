@@ -33,4 +33,6 @@ resource "aws_instance" "myec2" {
   tags = {
     date_created = local.time
   }
+
 }
+this a new branch for my infrastructure 
